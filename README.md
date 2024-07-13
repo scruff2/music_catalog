@@ -28,6 +28,8 @@ We welcome contributions from everyone, even if you have no programming experien
      Year: [Release Year]
      Audiophile Highlights: [Any interesting positive characteristics that would be of interest to those listening to the song]
      Audiophile Lowlights: [Any interesting negative characteristics that would be of interest to those listening to the song. For example, the problem with that darn tambourine on "Jazz at the Pawnshop" because they recorded it too hot, it is clipping]
+     Label: [The record label that released the recording]
+     Format: [The format in which the song was released (e.g., Vinyl, CD, Digital)]
      Additional Information: [Any other details]
      ```
 4. **Save and Upload Your Changes**:
