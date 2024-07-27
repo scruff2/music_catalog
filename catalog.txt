@@ -1,3 +1,5 @@
+# This is not in JSON format because it must be easily readible by humans.
+# You can easily convert to JSON yourself, if that is what you really need.
 Title: Introduction/Limehouse Blues
 Artist: Arne Domnérus, alto sax, clarinet; Bengt Hallberg, piano; Lars Erstrand, vibes; Georg Riedel, bass; and Egil Johansen, drums
 Album: Jazz at the Pawn Shop
@@ -8,3 +10,40 @@ Audiophile Lowlights: [TBD]
 Label: TBD
 Format: TBD
 Additional Information: The original recording was done using a Nagra IV analog tape recorder
+END OF SONG: END OF SONG
+
+Title: They say it's wonderful
+Artist: John Coltrane; Johnny Hartman
+Album: John Coltrane and Johnny Hartman
+Genre: Jazz
+Year: 1962
+Audiophile Highlights: According to Rick Beato, it is "one of the finest recordings ever."  
+Audiophile Lowlights: TBD
+Label: TBD
+Format: TBD
+Additional Information: TBD
+END OF SONG: END OF SONG
+
+Title: 
+Artist: 
+Album: 
+Genre: 
+Year: 
+Audiophile Highlights:  
+Audiophile Lowlights:
+Label: 
+Format: 
+Additional Information: 
+END OF SONG: END OF SONG
+
+Title: 
+Artist: 
+Album: 
+Genre: 
+Year: 
+Audiophile Highlights:  
+Audiophile Lowlights:
+Label: 
+Format: 
+Additional Information: 
+END OF SONG: END OF SONG
