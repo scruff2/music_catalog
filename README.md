@@ -12,7 +12,11 @@ Although there is a subjective aspect involved,  some songs are so well recorded
 
 ## How to Contribute
 
-We welcome contributions from everyone, even if you have no programming experience. Here's how you can help:
+We welcome contributions from everyone, even if you have no programming experience.
+
+## The Human Readible Format
+
+This catalog uses a very simple, human readible format, as detailed below, and can be easily converted into JSON, Python Dictionaries, etc.
 
 ### Adding New Songs
 
