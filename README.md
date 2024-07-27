@@ -8,7 +8,7 @@ Welcome to the Open Source Music Catalog, a community-driven project to compile 
 This repository is dedicated to listing songs that this community considers to be of high recording quality, including their title, artist name(s), album name, genre, release year, key audiophile highlights and lowlights, and other relevant details. Our goal is to create a helpful resource for music enthusiasts, maintained by the community.
 
 ## What is Considered "High Recording Quality"?
-Although there is a subjective aspect involved,  some songs are so well recorded that even an untrained person will recognize it's beauty when compared to a lesser version.  In the same way, there are some great songs that are obviously very poorly recorded.  You will recognize a great recording and a poor recording when you hear them.  If you don't, then this list is not for you.
+Although there is a subjective aspect involved,  some songs are so well recorded that even an untrained person will recognize it's beauty when compared to a lesser version.  In the same way, there are great songs that are obviously very poorly recorded.  You will recognize a great recording and a poor recording when you hear them.  If you don't, then this list is not for you.
 
 ## How to Contribute
 
